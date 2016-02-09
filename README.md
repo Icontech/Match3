@@ -6,6 +6,8 @@ The goal is to remove all the tiles by clicking on them or by getting three or m
 
 ## Instructions
 
+- Set the number of rows and columns if you wish (default is a 10 x 10 size board = 100 tiles).
+- Click the "vertical matching" button to toggle vertical matching on/off.
 - Use the W,A,S,D keys to move the camera and hold down shift and W/S to zoom in/out.
 - Click any tile to remove it. 
 - The game ends once all the tiles have been removed.
